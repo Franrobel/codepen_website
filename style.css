@@ -1,0 +1,100 @@
+body {background: rgb(148, 5, 5);} 
+hr {width: 259px;}
+ul {
+  border: 3px solid rgb(0, 0, 0); background-color: rgb(217, 67, 67);
+  border-radius: 5px; padding-right: 15px;
+  margin: 60px 120px ;  
+  width: 7%; 
+  font-family: "Oswald", sans-serif; font-size: 18px; letter-spacing: 0.7px;
+}
+#logorhcp {position: absolute;
+  margin: 50px 545px;
+border-radius: 10%}
+#membersh2 {text-align:center;
+  font-family: sans-serif;
+  margin: 30px 555px;}
+#members {position: absolute; top: 410px; left: 130px; 
+font-family: sans-serif;
+text-decoration: underline;}
+.members {border-radius: 5px; position: absolute;
+top: 450px;
+left: 106px;
+height: 133px}
+.AK {width: 15%;  height: 120%; overflow: auto; font-family: "Oswald", sans-serif; 
+background: rgb(217, 67, 67); border: 2px solid black; padding: 13px;
+  line-height: 1.5em;
+  letter-spacing: 0.7px;
+  position: relative;
+  top: 190px;
+  left: 80px;
+    }
+#membersflea {position: absolute; top: 410px; left: 478px;
+  font-family: sans-serif;
+text-decoration: underline;}
+.membersflea {border-radius: 5px; position: absolute;
+top: 450px;
+left: 405px;}
+p.flea {width: 15%; height: 80%; font-family: "Oswald", sans-serif;
+background: rgb(217, 67, 67); border: 2px solid black; padding: 13px;
+  line-height: 1.5em;
+  letter-spacing: 0.7px; position: relative; top: -384px; left: 380px;
+}
+#memberschad {position: absolute; top: 410px; left: 768px;
+  font-family: sans-serif;
+text-decoration: underline;}
+.memberschad {border-radius: 5px; position: absolute;
+top: 450px;
+right: 428px;}
+p.chad {width: 15%; height: 80%; overflow: auto; font-family: "Oswald",sans-serif; 
+background: rgb(217, 67, 67); border: 2px solid black; padding: 13px;
+  letter-spacing: 0.7px;
+  line-height: 1.5em;
+  position: relative;
+  top: -1030px;
+  left: 698px;
+}
+#membersjohn {position: absolute; top: 410px; left: 1054px;
+font-family: sans-serif;
+text-decoration: underline;}
+.membersjohn {border-radius: 5px; position: absolute;
+top: 450px;
+right: 120px;}
+p.john {width: 15%;  height: 80%; font-family: "Oswald", sans-serif; 
+  position: relative;
+  top: -1609px;
+  left: 1005px; 
+background: rgb(217, 67, 67); border: 2px solid black; padding: 13px;
+  line-height: 1.5em;
+  letter-spacing: 0.7px;
+ }
+#lineah {position: relative; top: -1530px; right: 10px;}
+#historyh2 {text-align: center;
+  font-family: sans-serif;
+margin: 460px 610px;
+position: absolute;
+top: 860px; 
+}
+.history {width: 80%;  height: 80%; font-family: "Oswald", sans-serif;
+  position: relative;
+  top: -1440px;
+  left: 110px;
+background: rgb(217, 67, 67); border: 2px solid black; padding: 13px; 
+  line-height: 1.5em;
+  letter-spacing: 0.7px; 
+}
+#linead{ position: relative; top: -1395px; right: 10px;}
+#disco {text-align: center;
+  font-family: sans-serif; position: relative; top: -1360px; right: 10px; }
+.flexbox {position: relative; top: -1330px; right: 20px;}
+.container {display: flex;
+  flex-wrap: wrap; width: 700px; border: 2px solid  rgb(0, 0, 0);  background-color: rgb(217, 67, 67); border-radius: 1%; font-family: "Oswald", sans-serif; line-height: 1.5em;
+  letter-spacing: 0.7px; margin: auto;
+  }
+.discographyrhcp {
+  display: flex;
+  flex-wrap: wrap; justify-content: space-around; text-align: center; padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px; 
+}
+.artwork {font-size: 23px; position: relative; right: 20px; }
